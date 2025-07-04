@@ -1,4 +1,4 @@
-# Panoptic Scans API Quickstart
+# Panoptic Scans API Collection
 
 This repository contains an Insomnia collection for the **Panoptic Scans API**, a service for managing network security scans and reports.
 
@@ -139,11 +139,11 @@ The API supports three report formats:
 - **HTML:** Web-friendly format for viewing in browsers
 - **PDF:** Professional format for sharing and archiving
 
-## Sample Scan ID
+## Sample Scan UUID
 
-The collection includes sample requests using the scan ID: `e510ab1c-1dec-41a5-86c9-9499220912ac`
+The collection includes sample requests using the scan UUID: `e510ab1c-1dec-41a5-86c9-9499220912ac`
 
-Replace this with your actual scan IDs when making requests.
+Replace this with your actual scan UUIDs when making requests.
 
 ## Import Instructions
 
