@@ -1,4 +1,4 @@
-# Panoptic Scans API Collection
+# Panoptic Scans API Quickstart
 
 This repository contains an Insomnia collection for the **Panoptic Scans API**, a service for managing network security scans and reports.
 
